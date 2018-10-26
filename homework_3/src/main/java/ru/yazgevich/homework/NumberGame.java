@@ -1,5 +1,9 @@
 package ru.yazgevich.homework;
 
+/**
+ * @author Anton Yazgevich
+ */
+
 import java.util.Scanner;
 
 public class NumberGame {
